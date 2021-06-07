@@ -1,0 +1,16 @@
+.header_container {
+  align-items: center;
+  background-color: #C10708;
+  display: flex;
+  height: 70px;
+  justify-content: center;
+  
+  .header_title {
+    margin: 0;
+    font: normal normal normal 18px/16px "Varela Round";
+    letter-spacing: 0.54px;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    opacity: 1;
+  }
+}
